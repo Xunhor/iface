@@ -2316,9 +2316,9 @@ input::-moz-focus-inner {
 .header__nav li ul {
   display: none;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 12px;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 0.2px;
   margin: 0;
   padding: 0.8rem 0 2rem 1.2rem;
 }
@@ -2646,7 +2646,7 @@ input::-moz-focus-inner {
   }
 
   .header__nav li ul {
-    font-size: 11px;
+    font-size: 12px;
   }
 }
 
