@@ -2710,7 +2710,7 @@ input::-moz-focus-inner {
 }
 
 .search-form::after {
-  content: "Press Enter to begin your search.";
+  content: "Pressione Enter para iniciar sua pesquisa.";
   display: block;
   letter-spacing: 0.6px;
   font-size: 1.6rem;
